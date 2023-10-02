@@ -8,6 +8,7 @@ int main() {
 	SetConsoleOutputCP(1251);
 	double valB, valC;
 	double ValA, ValB, ValC;
+	//куку
 
 	cout << "Введите коэффициенты B и С для уравнения 5-го типа через пробел соответственно: ";
 	cin >> valB >> valC;
